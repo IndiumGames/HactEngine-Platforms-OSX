@@ -1,0 +1,7 @@
+# Backup and temporary files
+*~
+*.autosave
+*.temp
+
+# Ignore .DS_Store
+.DS_Store
